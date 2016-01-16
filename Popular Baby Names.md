@@ -48,7 +48,7 @@ Datasets have been obtained from:
 - South Australia (https://data.sa.gov.au/data/dataset/popular-baby-names)
 - North America (https://github.com/hadley/babynames)
 
-Source codes can be found on Github:
+Source codes can be found on Github: https://github.com/karenyong/Developing-Data-Products-Project
 
 
 
